@@ -57,7 +57,8 @@ class CategoryAdapter(context: Context, categories: List<Category>) : BaseAdapte
     override fun getCount(): Int {
         return categories.count()
     }
-
+    //ViewHolder recycles the view created in getView by the LayoutInflater func rather than
+    //every time a new cell is scrolled into view.
     private class ViewHolder {
         var categoryImage: ImageView? = null
         var categoryName: TextView? = null
