@@ -1,0 +1,35 @@
+[33mcommit 9c87e55627c80c70cb2354b712968f353faecc24[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Tue Jul 31 15:59:57 2018 -0400
+
+    Prep for recycler view adapter
+
+[33mcommit ab94a3ab478c62bc68f12d42b9de2f48dc72c6a5[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Tue Jul 31 02:06:04 2018 -0400
+
+    changed from alpha3 to appcompat-v7:28.0.0-beta01
+
+[33mcommit 32bab11534ba3881f8b7991e8b59b9535f9c7171[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Fri Jul 27 18:36:09 2018 -0400
+
+    Added CategoryAdapter.kt
+
+[33mcommit 65ab0f58132776a68ef47767c843beff38499048[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Thu Jul 26 14:08:51 2018 -0400
+
+    added Categories
+
+[33mcommit 7f8feccd69bb325488253904b2c3d241d5b51eb8[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Thu Jul 26 03:02:21 2018 -0400
+
+    added Catagory and Product classes and MainActivity
+
+[33mcommit d339143ce23fba06e9f485de9221c49781e81cb2[m
+Author: Cordell Hurst <16294570+theartfuldodger1@users.noreply.github.com>
+Date:   Wed Jul 25 20:47:46 2018 -0400
+
+    initial commit
